@@ -1,1 +1,1 @@
-File genes.gff.gz is the gene prediction for barley leaf rust fungus Puccinia hordei isolate 560
+This repository curates the gene prediction file genes.gff.gz for the reference genome of barley leaf rust fungus Puccinia hordei isolate 560, which has been published in the journal G3: GENES, GENOMES, GENETICS at https://www.g3journal.org/content/9/10/3263.
